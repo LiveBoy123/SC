@@ -3,35 +3,20 @@
 #### 介绍
 自己开发模组，感觉自己守着护着不行，要将代码公开才行，这样才会有人先我报告错误，然后我再改进，源码有错误的地方多多指教
 
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.此源码可用于学习和交流，禁止用于商用或者其他非法用途！
+2.此模组的源码基于 生存战争API 编写，看不懂，没关系，先把游戏源码看一遍
+源码下载地址：
+蓝奏云网盘，直接下载，无需安装多余应用
+https://liveboy.lanzouq.com/b02pckheb
+提取密码:11
+3.看到不对劲的地方（如源码注释的意思不正确），请发送电子邮件至wbdbdfw@outlook.com 我会尽快修复！
 
 #### 参与贡献
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+Null
 
+#### 合作伙伴
 
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+NAN团队成员
