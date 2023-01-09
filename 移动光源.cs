@@ -65,7 +65,7 @@ namespace Game
                     Point3 point = this.GetPoint(componentPlayer.ComponentBody.Position) + Point3.UnitY;
                     IInventory inventory = componentPlayer.ComponentMiner.Inventory;//玩家物品栏
                     bool flag2 = Terrain.ExtractContents(inventory.GetSlotValue(inventory.ActiveSlotIndex)) == MagmaBucketBlock.Index;//判断手持方块的index是不是岩浆桶
-                    if (flag2)//如果手持方块的index是火把
+                    if (flag2)//如果手持方块的index是岩浆桶
                     {
                         //判断这个点是不是没有光亮方块了，没有的话就执行
                         bool flag3 = point != this.lightingPoints[num];
@@ -88,7 +88,7 @@ namespace Game
                     }
                     else
                     {
-                        //如果手持方块的index不是火把 --> 删除掉发光的方块
+                        //如果手持方块的index不是岩浆桶 --> 删除掉发光的方块
                         bool flag6 = this.lightingPoints[num] != Point3.Zero;
                         if (flag6)
                         {
